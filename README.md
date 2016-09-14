@@ -1,2 +1,4 @@
 # hello-world
-Hello World. 
+Our first repository.
+
+A new line. 
